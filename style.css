@@ -12,3 +12,12 @@ body {
   text-align: center;
   font-size: xx-large;
 }
+
+footer {
+    min-height: 10vh;
+    text-align: center;
+    font-size: small;
+    color: #AAAAAA;
+    border-style: solid;
+    margin: 5;
+}
