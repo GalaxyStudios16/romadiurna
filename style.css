@@ -2,6 +2,8 @@ body {
   background-color: #353240;
   color: #EEEEEE;
   font-family: verdana, sans-serif;
+  display: flex;
+  flex-direction: column;
 }
 
 .header {
